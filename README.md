@@ -35,7 +35,6 @@ Cards
 
 
 
-Github- 
 
 
-*Please feel free to suggest me what and where should i improve to create Creative and Meaningful Dashboard. It will be very helpful to me.
+
